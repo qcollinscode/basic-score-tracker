@@ -1,0 +1,12 @@
+* {
+  user-select: none;
+}
+
+.winner {
+  color: green;
+}
+
+.done {
+  text-decoration: line-through;
+  opacity: 0.5;
+}

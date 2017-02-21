@@ -1,0 +1,15 @@
+/* line 1, ../sass/_base.scss */
+* {
+  user-select: none;
+}
+
+/* line 5, ../sass/_base.scss */
+.winner {
+  color: green;
+}
+
+/* line 9, ../sass/_base.scss */
+.done {
+  text-decoration: line-through;
+  opacity: 0.5;
+}
